@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+networkx
+scikit-learn
+streamlit
+plotly
+reportlab
+sqlite-utils
+python-multipart
+pytest
