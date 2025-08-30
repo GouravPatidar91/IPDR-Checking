@@ -8,7 +8,7 @@ import streamlit.components.v1 as components
 
 st.set_page_config(page_title="IPDR Cyber Analytics Dashboard", page_icon="🕵️‍♂️", layout="wide")
 
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://ipdr-checking.onrender.com/"
 
 # --- Sidebar ---
 with st.sidebar:
