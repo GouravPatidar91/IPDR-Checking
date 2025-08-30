@@ -1,3 +1,4 @@
+
 fastapi
 uvicorn
 pandas
@@ -9,3 +10,4 @@ reportlab
 sqlite-utils
 python-multipart
 pytest
+pyvis
